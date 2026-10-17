@@ -1,6 +1,6 @@
 # CSN09112-Network-Security-Cryptography-Coursework
-**Name: Steven Baruc
-**Matriculation Number: 40772308
+**Name:** Steven Baruc
+**Matriculation Number:** 40772308
 
 ---
 
