@@ -14,6 +14,7 @@ Lab 1
 ## Overview
 
 <img width="1810" height="981" alt="image" src="https://github.com/user-attachments/assets/87524a49-be21-46c4-9b8d-fcfcdd0a300b" />
+
 ## Key elements of learning
 ## Key difficulties
 
