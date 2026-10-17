@@ -18,6 +18,7 @@ In this lab we were task on setting up and configuring a multi subnet network en
 
 ## Key elements of learning
 * **Firewall Rule creation:** Defined access control lists (ACLs) and stateful filtering rules on the central firewall to restrict inter-zone communication. rather than permitting unrestricted connection, i created targeted inbound and outbound rules to control traffic entering and leaving the DMZ.
+*  **Web Services** Allowed inbound TCP port 80 (HTTP) and port 443 (HTTPS) traffic from the public network into DMZ-hosted servers to simulate public facing web applications.
 ## Key difficulties
 
 ## Lab 2 **Creating Secure Architectures**
