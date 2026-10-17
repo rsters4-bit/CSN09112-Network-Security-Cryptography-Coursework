@@ -17,6 +17,7 @@ In this lab we were task on setting up and configuring a multi subnet network en
 <img width="1810" height="981" alt="image" src="https://github.com/user-attachments/assets/87524a49-be21-46c4-9b8d-fcfcdd0a300b" />
 
 ## Key elements of learning
+*
 ## Key difficulties
 
 ## Lab 2 **Creating Secure Architectures**
