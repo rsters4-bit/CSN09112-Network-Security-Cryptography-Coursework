@@ -14,10 +14,17 @@ Lab 1
 ## Overview
 
 <img width="1810" height="981" alt="image" src="https://github.com/user-attachments/assets/87524a49-be21-46c4-9b8d-fcfcdd0a300b" />
-
+## Key elements of learning
+## Key difficulties
 
 ## Lab 2 **Creating Secure Architectures**
 Lab 2 [Link](https://napier.apporto.com/collaboration/dFoTwUibIvj18RHj94f64PJ8%2BE6YQL2xQ0VaVYnAdJIkRd%2B0w7KfA%2FhZeSLanWcrhlJQSO6OH7IgHOLPQmwpp%2B4kXrCUPiu2x0%2B2jRnQMOKqmw7WJPhF921xHBjCGi6L7UxeOqjUtALaCx8HOlhyMtUa2NGJ%2F1VXPiHctgvxSsU%3D)
+## Overview
+## Key elements of learning
+## Key difficulties
 
 ## Lab 3 **AWS Security and Server Infrastrcuture**
 Lab 3 Link [Windows](http://52.55.247.89/) [Ubuntu](http://52.55.247.89/)
+## Overview
+## Key elements of learning
+## Key difficulties
