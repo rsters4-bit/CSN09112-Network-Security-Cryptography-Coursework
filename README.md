@@ -1,7 +1,8 @@
 # CSN09112-Network-Security-Cryptography-Coursework
-Name: Steven Baruc
+**Name: Steven Baruc
+**Matriculation Number: 40772308
 
-Miticulation Number: 40772308
+---
 
 ## Introduction-Overview 
-This repository will present the CSN09112 Network Security & Cryptography Coursework tracking and completion. Within it's content are link to the labs itself as well as information of each labs, key areas that are learned when conducting the lab, complications as well as challenges during the lab exercises.
+This repository documents my coursework and lab progress for CSN09112 Network Security & Cryptography. it includes direct links to each completed labs, overviews of the exercises, key concepts learned, and reflections on the technical challenges encountered throughout the semester.
