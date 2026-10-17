@@ -17,9 +17,9 @@ In this lab we were task on setting up and configuring a multi subnet network en
 <img width="1810" height="981" alt="image" src="https://github.com/user-attachments/assets/87524a49-be21-46c4-9b8d-fcfcdd0a300b" />
 
 ## Key elements of learning
-* **Firewall Rule creation:** Defined access control lists (ACLs) and stateful filtering rules on the central firewall to restrict inter-zone communication. rather than permitting unrestricted connection, i created targeted inbound and outbound rules to control traffic entering and leaving the DMZ.
-*  **Web Services:** Allowed inbound TCP port 80 (HTTP) and port 443 (HTTPS) traffic from the public network into DMZ-hosted servers to simulate public facing web applications.
-* **Testing and verifying rules:** Testing the firewall is behaving as intended. I used tools like **ping** and **nmap** to check both sides of the rules.
+* **Firewall Rule creation:** Configured stateful rules and access control lists (ACLs) on the central firewall (pfsense) to restrict inter-zone communication and control traffic entering and leaving the DMZ.
+*  **Service Access Control:** Allowed inbound TCP port 80 (HTTP) and port 443 (HTTPS) from the public network into DMZ to simulate hosting accessible web applications without exposing other internal ports.
+* **Testing and verification:** Checked that the firewall was behaving as intended using tools like **ping** and **nmap** to confirm that permitted ports were open and restricted traffic was blocked.
 ## Key difficulties
 
 ## Lab 2 **Creating Secure Architectures**
