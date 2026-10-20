@@ -30,6 +30,7 @@ Lab 2 [Link](https://napier.apporto.com/collaboration/dFoTwUibIvj18RHj94f64PJ8%2
 In this exercise i continued to use the network architecture built in Lab 1, This lab introduced penetration testing methodologies using tools such as **Nmap**, **Hydra**, and **Metaspliot** and packet analysis using **Wireshark**.
 
 ## Key elements of learning
+# ##
 ## Key difficulties
 
 ## Lab 3 **AWS Security and Server Infrastrcuture**
