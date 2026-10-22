@@ -26,7 +26,12 @@ In this lab we were task on setting up and configuring a multi subnet network en
 ## Supporting Screenshots
 <img width="1363" height="409" alt="image" src="https://github.com/user-attachments/assets/de34c5be-bd9a-4d02-a214-5bfff1f2b853" />
 
-**Screenshot 1-** Pfsense firewall rules creation for OPT1 DMZ
+**Screenshot 1-** Pfsense firewall rules creation for OPT1 DMZ.
+
+<img width="852" height="649" alt="image" src="https://github.com/user-attachments/assets/53447fd4-6c98-4637-8c89-01bfa9ad6324" />
+
+**Screenshot 2-** Using the command Nmap from Ubuntu to Windows.
+
 
 ## Lab 2 **Creating Secure Architectures**
 Lab 2 [Link](https://napier.apporto.com/collaboration/dFoTwUibIvj18RHj94f64PJ8%2BE6YQL2xQ0VaVYnAdJIkRd%2B0w7KfA%2FhZeSLanWcrhlJQSO6OH7IgHOLPQmwpp%2B4kXrCUPiu2x0%2B2jRnQMOKqmw7WJPhF921xHBjCGi6L7UxeOqjUtALaCx8HOlhyMtUa2NGJ%2F1VXPiHctgvxSsU%3D)
