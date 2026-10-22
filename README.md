@@ -32,6 +32,10 @@ In this lab we were task on setting up and configuring a multi subnet network en
 
 **Screenshot 2-** Using the command Nmap from Ubuntu to Windows.
 
+<img width="1149" height="579" alt="image" src="https://github.com/user-attachments/assets/1ce48827-16c7-47a8-8e20-445faca859e7" />
+
+**Screenshot 3-** Running Nmap on windows to itself proving port 80 is open.
+
 
 ## Lab 2 **Creating Secure Architectures**
 Lab 2 [Link](https://napier.apporto.com/collaboration/dFoTwUibIvj18RHj94f64PJ8%2BE6YQL2xQ0VaVYnAdJIkRd%2B0w7KfA%2FhZeSLanWcrhlJQSO6OH7IgHOLPQmwpp%2B4kXrCUPiu2x0%2B2jRnQMOKqmw7WJPhF921xHBjCGi6L7UxeOqjUtALaCx8HOlhyMtUa2NGJ%2F1VXPiHctgvxSsU%3D)
