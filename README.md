@@ -46,7 +46,9 @@ Lab 2 [Link](https://napier.apporto.com/collaboration/dFoTwUibIvj18RHj94f64PJ8%2
 In this exercise i continued to use the network architecture built in Lab 1, This lab introduced penetration testing methodologies using tools such as **Nmap**, **Hydra**, and **Metaspliot** and packet analysis using **Wireshark**.
 
 ## Key elements of learning
-* **Anlysis of network traffic:** Using Wireshark to analyze network traffic as well as extract telnet plaintext credentials and inspect encrypted SSH payloads. 
+* **Anlysis of network traffic:** Using Wireshark to analyze network traffic as well as extract telnet plaintext credentials and inspect encrypted SSH payloads.
+*  **Reconnaissance:** Executed HTTP banner grabbing via telnet to identify server versions and operating system versions using the command telnet 192.168.10.7 80.
+*  **Service expliotation:** utilized hydra to automate credential cracking against FTP service on TCP port 21.
 ## Key difficulties
 
 ## Lab 3 **AWS Security and Server Infrastrcuture**
