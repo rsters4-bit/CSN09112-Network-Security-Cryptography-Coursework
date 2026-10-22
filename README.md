@@ -36,6 +36,9 @@ In this lab we were task on setting up and configuring a multi subnet network en
 
 **Screenshot 3-** Running Nmap on windows to itself proving port 80 is open.
 
+<img width="1459" height="808" alt="image" src="https://github.com/user-attachments/assets/bbfbf736-b7d5-4afe-8abc-69383b72627f" />
+
+**Screenshot 4-** Apache web verification.
 
 ## Lab 2 **Creating Secure Architectures**
 Lab 2 [Link](https://napier.apporto.com/collaboration/dFoTwUibIvj18RHj94f64PJ8%2BE6YQL2xQ0VaVYnAdJIkRd%2B0w7KfA%2FhZeSLanWcrhlJQSO6OH7IgHOLPQmwpp%2B4kXrCUPiu2x0%2B2jRnQMOKqmw7WJPhF921xHBjCGi6L7UxeOqjUtALaCx8HOlhyMtUa2NGJ%2F1VXPiHctgvxSsU%3D)
