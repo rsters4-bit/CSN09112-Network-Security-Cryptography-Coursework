@@ -52,7 +52,7 @@ In this exercise i continued to use the network architecture built in Lab 1, Thi
 ## Key difficulties
 ## Supporting Screenshots
 <img width="1554" height="1086" alt="image" src="https://github.com/user-attachments/assets/1c231f96-5c1e-494b-99bd-e068aecbcaec" />
-**Screenshot 1-** extracting telnet plaintext credentials (username:msfadmin password:napier123) using Wireshark TCP stream.
+**Screenshot 1-** extracting telnet plaintext credentials "username:msfadmin password:napier123" using Wireshark TCP stream.
 
 ## Lab 3 **AWS Security and Server Infrastrcuture**
 Lab 3 Link [Windows](http://52.55.247.89/) [Ubuntu](http://52.55.247.89/)
