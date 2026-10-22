@@ -49,9 +49,13 @@ In this exercise i continued to use the network architecture built in Lab 1, Thi
 * **Anlysis of network traffic:** Using Wireshark to analyze network traffic as well as extract telnet plaintext credentials and inspect encrypted SSH payloads.
 *  **Reconnaissance:** Executed HTTP banner grabbing via telnet to identify server versions and operating system versions using the command telnet 192.168.10.7 80.
 *  **Service expliotation:** utilized hydra to automate credential cracking against FTP service on TCP port 21.
+
 ## Key difficulties
+
 ## Supporting Screenshots
+
 <img width="1554" height="1086" alt="image" src="https://github.com/user-attachments/assets/1c231f96-5c1e-494b-99bd-e068aecbcaec" />
+
 **Screenshot 1-** extracting telnet plaintext credentials "username:msfadmin password:napier123" using Wireshark TCP stream.
 
 ## Lab 3 **AWS Security and Server Infrastrcuture**
