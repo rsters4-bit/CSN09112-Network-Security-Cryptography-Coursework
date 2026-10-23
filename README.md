@@ -78,5 +78,8 @@ I didn't ran into much difficulties except remembering that i have to set the Me
 Lab 3 Link [Windows](http://52.55.247.89/) [Ubuntu](http://52.55.247.89/)
 ## Overview
 Using AWS academy learner lab i have been instructed to deploy and configured two servers which are Ubuntu a linux based server and windows 2022 server. This also includes configuring security groups as well as firewall which are host based like windows defender and AWS rules services "ICMP, HTTP, RDP, and SSH" the lab also conducted modifying instance hardware specifications using the AWS cli and as well as using python for automating boto3 scripts. 
+
 ## Key elements of learning
+During this exercise, Ubuntu server and Windows server 2022 were deployed using the AWS learner's lab EC2 instances as well as configuring security groups to strictly control SSH, HTTP, HTTPS, and RDP traffic. A secondary Linux admin user were created and SSH configuration file was modified to permit password-based authentication alongside the default public keys. Forensic analysis was conducted by auditing Apache and Windows IIS logs to extract clients IPs, HTTP status codes and user agent details. Lastly, the AWS CLI was utilized to manage instance states and scale hardware types and python scripts "Boto3 library" to develop automate key pair generation and EC2 lifecycle.
+
 ## Key difficulties
