@@ -65,6 +65,10 @@ In this exercise i continued to use the network architecture built in Lab 1, Thi
 <img width="1424" height="1067" alt="image" src="https://github.com/user-attachments/assets/aff9d577-aadc-4a33-b26d-68ca61bf34da" />
 
 **Screenshot 3-** Viewing a TCP stream in Wireshark that captures the SSH protocol handshake and the encrypted session payload between client and server.
+
+<img width="1088" height="516" alt="image" src="https://github.com/user-attachments/assets/7c472714-26ee-4e8b-8f21-e35ab0be42fe" />
+
+**Screenshot 4-** Executing Hydra brute-force attack against FTP service 192.168.11.9 using a custom user and password lists.
 ## Lab 3 **AWS Security and Server Infrastrcuture**
 Lab 3 Link [Windows](http://52.55.247.89/) [Ubuntu](http://52.55.247.89/)
 ## Overview
