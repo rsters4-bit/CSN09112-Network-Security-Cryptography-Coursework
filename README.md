@@ -69,6 +69,11 @@ In this exercise i continued to use the network architecture built in Lab 1, Thi
 <img width="1088" height="516" alt="image" src="https://github.com/user-attachments/assets/7c472714-26ee-4e8b-8f21-e35ab0be42fe" />
 
 **Screenshot 4-** Executing Hydra brute-force attack against FTP service 192.168.11.9 using a custom user and password lists.
+
+<img width="1121" height="805" alt="image" src="https://github.com/user-attachments/assets/46cd6bef-f628-4508-9463-08ca46f15bfe" />
+
+**Screenshot 5-** Utilizing the "auxiliary/scanner/smb/smb_enumshares" in Metasploit to authenticate and successfully discover active smb shares on the target host 192.168.11.7.
+
 ## Lab 3 **AWS Security and Server Infrastrcuture**
 Lab 3 Link [Windows](http://52.55.247.89/) [Ubuntu](http://52.55.247.89/)
 ## Overview
