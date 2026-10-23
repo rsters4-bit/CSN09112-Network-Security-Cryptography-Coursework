@@ -113,3 +113,5 @@ My only challenging part is when i was trying to ping the RDP windows machine fr
 <img width="2017" height="684" alt="image" src="https://github.com/user-attachments/assets/0b9d34f5-ed65-4822-94ea-6fd7212b0b1f" />
 
 **Screenshot 7-** Terminating the created instance using python script.
+
+##Lab 4 ** Symmetric Key and Hashing ** Currently in progress
