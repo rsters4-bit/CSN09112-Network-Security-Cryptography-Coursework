@@ -58,6 +58,9 @@ In this exercise i continued to use the network architecture built in Lab 1, Thi
 
 **Screenshot 1-** extracting telnet plaintext credentials "username:msfadmin password:napier123" using Wireshark TCP stream.
 
+<img width="1499" height="462" alt="image" src="https://github.com/user-attachments/assets/e61239a3-c508-4154-89ab-ec1bcd0746f6" />
+
+**Screenshot 2-** Successfully bypassing a host key type negotiation error to log in to metasploitable machine via SSH. 
 ## Lab 3 **AWS Security and Server Infrastrcuture**
 Lab 3 Link [Windows](http://52.55.247.89/) [Ubuntu](http://52.55.247.89/)
 ## Overview
