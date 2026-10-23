@@ -61,6 +61,10 @@ In this exercise i continued to use the network architecture built in Lab 1, Thi
 <img width="1499" height="462" alt="image" src="https://github.com/user-attachments/assets/e61239a3-c508-4154-89ab-ec1bcd0746f6" />
 
 **Screenshot 2-** Successfully bypassing a host key type negotiation error to log in to metasploitable machine via SSH. 
+
+<img width="1424" height="1067" alt="image" src="https://github.com/user-attachments/assets/aff9d577-aadc-4a33-b26d-68ca61bf34da" />
+
+**Screenshot 3-** Viewing a TCP stream in Wireshark that captures the SSH protocol handshake and the encrypted session payload between client and server.
 ## Lab 3 **AWS Security and Server Infrastrcuture**
 Lab 3 Link [Windows](http://52.55.247.89/) [Ubuntu](http://52.55.247.89/)
 ## Overview
