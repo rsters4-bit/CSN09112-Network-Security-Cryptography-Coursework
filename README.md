@@ -83,7 +83,7 @@ Using AWS academy learner lab i have been instructed to deploy and configured tw
 During this exercise, Ubuntu server and Windows server 2022 were deployed using the AWS learner's lab EC2 instances as well as configuring security groups to strictly control SSH, HTTP, HTTPS, and RDP traffic. A secondary Linux admin user were created and SSH configuration file was modified to permit password-based authentication alongside the default public keys. Forensic analysis was conducted by auditing Apache and Windows IIS logs to extract clients IPs, HTTP status codes and user agent details. Lastly, the AWS CLI was utilized to manage instance states and scale hardware types and python scripts "Boto3 library" to develop automate key pair generation and EC2 lifecycle.
 
 ## Key difficulties
-my only challenging part is when i was trying to ping the RDP windows machine from my personal host machine, i was able to connect RDP from my host machine but unable to ping. I've done a bit of troubleshooting and found that in my inbound rules on my windows server instance ICMP source protocol was set to 0.0.0.0/32 instead of 0.0.0.0/0.
+My only challenging part is when i was trying to ping the RDP windows machine from my personal host machine, i was able to connect RDP from my host machine but unable to ping. I've done a bit of troubleshooting and found that in my inbound rules on my windows server instance ICMP source protocol was set to 0.0.0.0/32 instead of 0.0.0.0/0.
 
 ## Supporting Screenshots
 <img width="2206" height="1051" alt="image" src="https://github.com/user-attachments/assets/f1593700-828e-4bf4-ae35-5973a6cd7f35" />
