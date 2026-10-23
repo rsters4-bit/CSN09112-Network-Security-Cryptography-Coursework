@@ -105,3 +105,8 @@ My only challenging part is when i was trying to ping the RDP windows machine fr
 <img width="1965" height="918" alt="image" src="https://github.com/user-attachments/assets/e2074249-c449-4925-bdd0-cbcb13b0f137" />
 
 **Screenshot 5-** Copying credentials from AWS cloud access into credentials file using nano, and permission changes to enable to execute the file creation.
+
+<img width="2399" height="1030" alt="image" src="https://github.com/user-attachments/assets/88957666-c583-4384-b176-93157e51a57f" />
+
+**Screenshot 6-** Creating a new instance using python script and copying an existing Ubuntu instance AMI ID into the scirpt.
+
