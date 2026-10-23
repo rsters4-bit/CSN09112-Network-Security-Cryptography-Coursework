@@ -96,3 +96,8 @@ During this exercise, Ubuntu server and Windows server 2022 were deployed using 
 <img width="2070" height="1347" alt="image" src="https://github.com/user-attachments/assets/b3f49d05-ee28-424b-805d-ed97f1d2c200" />
 
 **Screenshot 3-** ICMP verification of windows defender inbound rule "file and printer sharing ICMPv4-in).
+
+<img width="929" height="367" alt="image" src="https://github.com/user-attachments/assets/0a15aaf1-1fb8-4b1a-b6c1-b74a506323bf" />
+
+**Screenshot 4-** Successful ping request from Host machine to 13.221.192.173.
+
