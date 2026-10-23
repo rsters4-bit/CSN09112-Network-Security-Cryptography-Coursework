@@ -92,3 +92,7 @@ During this exercise, Ubuntu server and Windows server 2022 were deployed using 
 <img width="2201" height="614" alt="image" src="https://github.com/user-attachments/assets/7fa57d4b-2b59-48d9-9da4-92424765bf39" />
 
 **Screenshot 2-** Validation for Linux Ubuntu server web page using VMware kali machine.
+
+<img width="2070" height="1347" alt="image" src="https://github.com/user-attachments/assets/b3f49d05-ee28-424b-805d-ed97f1d2c200" />
+
+**Screenshot 3-** ICMP verification of windows defender inbound rule "file and printer sharing ICMPv4-in).
