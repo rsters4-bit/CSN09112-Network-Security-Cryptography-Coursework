@@ -90,6 +90,11 @@ My only challenging part is when i was trying to ping the RDP windows machine fr
 
 **Screenshot 1-** Validation for Windows server web page using VMware kali machine.
 
+<img width="2149" height="1391" alt="image" src="https://github.com/user-attachments/assets/5d2422a5-036a-4636-99d5-5b8a3e5221f5" />
+
+
+**Screenshot 1.1-** Validation of the Windows web page modification "Main web site", "Hello to you".
+
 <img width="2201" height="614" alt="image" src="https://github.com/user-attachments/assets/7fa57d4b-2b59-48d9-9da4-92424765bf39" />
 
 **Screenshot 2-** Validation for Linux Ubuntu server web page using VMware kali machine.
