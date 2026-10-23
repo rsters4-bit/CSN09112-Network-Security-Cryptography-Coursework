@@ -51,7 +51,7 @@ In this exercise i continued to use the network architecture built in Lab 1, Thi
 *  **Service expliotation:** utilized hydra to automate credential cracking against FTP service on TCP port 21.
 
 ## Key difficulties
-
+I didn't ran into much difficulties except remembering that i have to set the Metasploitable and Kali hosts IP address again and make sure that the network adaptor on both host machine is up and that the default gateway is set to the right gateway as well as the name server is set to 8.8.8.8.
 ## Supporting Screenshots
 
 <img width="1554" height="1086" alt="image" src="https://github.com/user-attachments/assets/1c231f96-5c1e-494b-99bd-e068aecbcaec" />
