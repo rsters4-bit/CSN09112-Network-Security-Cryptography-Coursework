@@ -110,3 +110,6 @@ My only challenging part is when i was trying to ping the RDP windows machine fr
 
 **Screenshot 6-** Creating a new instance using python script and copying an existing Ubuntu instance AMI ID into the script.
 
+<img width="2017" height="684" alt="image" src="https://github.com/user-attachments/assets/0b9d34f5-ed65-4822-94ea-6fd7212b0b1f" />
+
+**Screenshot 7-** Terminating the created instance using python script.
