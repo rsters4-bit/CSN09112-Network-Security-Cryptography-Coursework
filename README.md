@@ -108,5 +108,5 @@ My only challenging part is when i was trying to ping the RDP windows machine fr
 
 <img width="2399" height="1030" alt="image" src="https://github.com/user-attachments/assets/88957666-c583-4384-b176-93157e51a57f" />
 
-**Screenshot 6-** Creating a new instance using python script and copying an existing Ubuntu instance AMI ID into the scirpt.
+**Screenshot 6-** Creating a new instance using python script and copying an existing Ubuntu instance AMI ID into the script.
 
