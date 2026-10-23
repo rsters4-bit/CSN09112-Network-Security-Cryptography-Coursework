@@ -88,7 +88,7 @@ My only challenging part is when i was trying to ping the RDP windows machine fr
 ## Supporting Screenshots
 <img width="2206" height="1051" alt="image" src="https://github.com/user-attachments/assets/f1593700-828e-4bf4-ae35-5973a6cd7f35" />
 
-**Screenshot 1-** Validation for Windows server web page using VMware kali machine.
+**Screenshot 1-** Validation for Windows server web page using VMware kali machine and a modification by creating the iisstart.html "Main web site", "Hello to you".
 
 <img width="2201" height="614" alt="image" src="https://github.com/user-attachments/assets/7fa57d4b-2b59-48d9-9da4-92424765bf39" />
 
