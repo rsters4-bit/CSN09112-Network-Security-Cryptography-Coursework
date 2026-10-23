@@ -102,3 +102,6 @@ My only challenging part is when i was trying to ping the RDP windows machine fr
 
 **Screenshot 4-** Successful ping request from Host machine to 13.221.192.173.
 
+<img width="1965" height="918" alt="image" src="https://github.com/user-attachments/assets/e2074249-c449-4925-bdd0-cbcb13b0f137" />
+
+**Screenshot 5-** Copying credentials from AWS cloud access into credentials file using nano, and permission changes to enable to execute the file creation.
