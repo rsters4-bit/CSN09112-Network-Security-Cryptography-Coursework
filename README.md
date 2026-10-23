@@ -83,3 +83,8 @@ Using AWS academy learner lab i have been instructed to deploy and configured tw
 During this exercise, Ubuntu server and Windows server 2022 were deployed using the AWS learner's lab EC2 instances as well as configuring security groups to strictly control SSH, HTTP, HTTPS, and RDP traffic. A secondary Linux admin user were created and SSH configuration file was modified to permit password-based authentication alongside the default public keys. Forensic analysis was conducted by auditing Apache and Windows IIS logs to extract clients IPs, HTTP status codes and user agent details. Lastly, the AWS CLI was utilized to manage instance states and scale hardware types and python scripts "Boto3 library" to develop automate key pair generation and EC2 lifecycle.
 
 ## Key difficulties
+
+## Supporting Screenshots
+<img width="2206" height="1051" alt="image" src="https://github.com/user-attachments/assets/f1593700-828e-4bf4-ae35-5973a6cd7f35" />
+
+**Screenshot 1-** Validation for Windows server web page using VMware kali machine.
