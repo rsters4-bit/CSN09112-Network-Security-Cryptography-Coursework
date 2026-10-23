@@ -114,4 +114,4 @@ My only challenging part is when i was trying to ping the RDP windows machine fr
 
 **Screenshot 7-** Terminating the created instance using python script.
 
-##Lab 4 ** Symmetric Key and Hashing ** Currently in progress
+## Lab 4 ** Symmetric Key and Hashing ** Currently in progress
