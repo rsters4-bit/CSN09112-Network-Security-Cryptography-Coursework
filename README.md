@@ -77,5 +77,6 @@ I didn't ran into much difficulties except remembering that i have to set the Me
 ## Lab 3 **AWS Security and Server Infrastrcuture**
 Lab 3 Link [Windows](http://52.55.247.89/) [Ubuntu](http://52.55.247.89/)
 ## Overview
+Using AWS academy learner lab i have been instructed to deploy and configured two servers which are Ubuntu a linux based server and windows 2022 server. This also includes configuring security groups as well as firewall which are host based like windows defender and AWS rules services "ICMP, HTTP, RDP, and SSH" the lab also conducted modifying instance hardware specifications using the AWS cli and as well as using python for automating boto3 scripts. 
 ## Key elements of learning
 ## Key difficulties
