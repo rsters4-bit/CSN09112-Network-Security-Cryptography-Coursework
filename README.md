@@ -120,5 +120,6 @@ My only challenging part is when i was trying to ping the RDP windows machine fr
 ## Key difficulties
 ## supporting screenshots
 <img width="1365" height="505" alt="image" src="https://github.com/user-attachments/assets/00bb4f4c-f5b2-4742-ae59-adda94f78625" />
+<img width="1361" height="1095" alt="image" src="https://github.com/user-attachments/assets/82fc4412-0c4c-458a-ba66-c4996dd34cc5" />
 
 
