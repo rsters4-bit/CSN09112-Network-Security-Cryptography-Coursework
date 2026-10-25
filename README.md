@@ -119,5 +119,6 @@ My only challenging part is when i was trying to ping the RDP windows machine fr
 ## Key elements of learning
 ## Key difficulties
 ## supporting screenshots
+<img width="1365" height="505" alt="image" src="https://github.com/user-attachments/assets/00bb4f4c-f5b2-4742-ae59-adda94f78625" />
 
 
