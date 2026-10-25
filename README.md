@@ -123,6 +123,7 @@ This lab demonstrates the use of symmetric key encryption, hashing, and password
 <img width="1365" height="505" alt="image" src="https://github.com/user-attachments/assets/00bb4f4c-f5b2-4742-ae59-adda94f78625" />
 
 **Screenshot 1-** Successfully decrypted an AES-256 ciphertext in OpenSSL by testing multiple keys until the correct password "paris" reveals the hidden message "hello"
+
 <img width="1361" height="1095" alt="image" src="https://github.com/user-attachments/assets/82fc4412-0c4c-458a-ba66-c4996dd34cc5" />
 
-
+**Screenshot 2-** Successfully executing Hashcat dictionary attack to crack four MD5 hashes, revealing the recovered plaintext passwords using a custom wordlist.
