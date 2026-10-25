@@ -116,6 +116,7 @@ My only challenging part is when i was trying to ping the RDP windows machine fr
 
 ## Lab 4 **Symmetric Key and Hashing** Currently in progress
 ## Overview
+This lab demonstrates the use of symmetric key encryption, hashing, and password cracking. Using Kali Linux and AWS, encrypting and decrypting files was practiced using ciphers like AES-256 via OpenSSL CLI tool along with password integrity verification such as pbkdf2 and file hashes using md5. password cracking was also used such as john the ripper and hashcat to crack windows nt and md5. python script "python boto3" was used in AWS to autommate the encryption and decryption process. gocryptfs tool was also use to securely store private keys. 
 ## Key elements of learning
 ## Key difficulties
 ## supporting screenshots
