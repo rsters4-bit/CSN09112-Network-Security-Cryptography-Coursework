@@ -127,3 +127,7 @@ This lab demonstrates the use of symmetric key encryption, hashing, and password
 <img width="1361" height="1095" alt="image" src="https://github.com/user-attachments/assets/82fc4412-0c4c-458a-ba66-c4996dd34cc5" />
 
 **Screenshot 2-** Successfully executing Hashcat dictionary attack to crack four MD5 hashes, revealing the recovered plaintext passwords using a custom wordlist.
+
+<img width="876" height="315" alt="image" src="https://github.com/user-attachments/assets/9dcbeca2-2140-44f2-b8db-17068fc58dff" />
+
+**screenshot 3-** Successfully used john the ripper to crack NT hashes, recovering passwords "aberdeen" and "dundee" using a custom dictionary wordlist.
