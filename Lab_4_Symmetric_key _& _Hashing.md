@@ -1,7 +1,11 @@
-## Lab 4 **Symmetric Key and Hashing** Currently in progress
+## Lab 4 **Symmetric Key and Hashing** 
 ## Overview
 This lab demonstrates the use of symmetric key encryption, hashing, and password cracking. Using Kali Linux and AWS, encrypting and decrypting files was practiced using ciphers like AES-256 via OpenSSL CLI tool along with password integrity verification such as pbkdf2 and file hashes using md5. password cracking was also used such as john the ripper and hashcat to crack windows nt and md5. python script "python boto3" was used in AWS to autommate the encryption and decryption process. gocryptfs tool was also use to securely store private keys. 
 ## Key elements of learning
+* Utilized John the Ripper to execute dictionary attacks against NT hashes by creating wordlists.
+* Applied AWS key Management Service to securely encrypt and decrypt local files using symmetric keys.
+* Converted ciphertext between Base64 and raw binary formats to secure data transmission and local decryption.
+* implemented "gocryptfs" to create secure vaults that output files contents into unreadable cyphertext when unmounted from the file system.
 ## Key difficulties
 One challenge that was encountered was the expired token in AWS CLI which took a little while troubleshooting. This was resolved by realizing on the previous lab that the token had to be copied from the "details" section next to the CLI dashboard and pasted into credentials file to be updated.
 ## supporting screenshots
