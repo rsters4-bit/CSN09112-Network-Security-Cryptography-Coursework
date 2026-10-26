@@ -6,7 +6,7 @@ This lab demonstrates the use of symmetric key encryption, hashing, and password
 ## supporting screenshots
 <img width="1365" height="505" alt="image" src="https://github.com/user-attachments/assets/00bb4f4c-f5b2-4742-ae59-adda94f78625" />
 
-**Screenshot 1-** Successfully decrypted an AES-256 ciphertext in OpenSSL by testing multiple keys until the correct password "paris" reveals the hidden message "hello"
+**Screenshot 1-** This screenshot shows a decryption of AES-256 ciphertext in OpenSSL by testing multiple keys until the correct password "paris" reveals the hidden message "hello"
 
 <img width="1361" height="1095" alt="image" src="https://github.com/user-attachments/assets/82fc4412-0c4c-458a-ba66-c4996dd34cc5" />
 
@@ -14,6 +14,7 @@ This lab demonstrates the use of symmetric key encryption, hashing, and password
 
 <img width="876" height="315" alt="image" src="https://github.com/user-attachments/assets/9dcbeca2-2140-44f2-b8db-17068fc58dff" />
 
-**screenshot 3-** Successfully used john the ripper to crack NT hashes, recovering passwords "aberdeen" and "dundee" using a custom dictionary wordlist.
+**screenshot 3-** Utilising john the ripper to crack NT hashes, recovering passwords "aberdeen" and "dundee" using a custom dictionary wordlist.
 
 <img width="1291" height="876" alt="image" src="https://github.com/user-attachments/assets/51aab7b6-c479-4821-b56f-b1d3ccedf27b" />
+**Screenshot 4_** This screenshot shows encrypting and decrypting a file using AWS KMS after overcoming a "ExpiredTokenException" and resolved by correctly formatting and updating the " ~./aws/credentials" file to authenticate the session.
