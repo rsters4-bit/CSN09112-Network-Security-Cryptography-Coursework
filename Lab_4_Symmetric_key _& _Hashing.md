@@ -20,3 +20,8 @@ One challenge that was encountered was the expired token in AWS CLI which took a
 <img width="1291" height="876" alt="image" src="https://github.com/user-attachments/assets/51aab7b6-c479-4821-b56f-b1d3ccedf27b" />
 
 **Screenshot 4-** This screenshot shows encrypting and decrypting a file using AWS KMS after overcoming a "ExpiredTokenException" and resolved by correctly formatting and updating the " ~./aws/credentials" file to authenticate the session.
+
+<img width="1674" height="626" alt="image" src="https://github.com/user-attachments/assets/1bd90f30-08aa-4a51-a227-9ee9d7fcb8b9" />
+
+**Screenshot 5-** unmounting a "gocryptfs" vault and to confirm that the raw encrypted file is unreadable by displaying cyphertext demonstrating that the contents are secure when the vault is closed.
+
