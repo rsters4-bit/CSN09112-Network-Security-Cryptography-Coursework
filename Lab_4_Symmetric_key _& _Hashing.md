@@ -16,3 +16,4 @@ This lab demonstrates the use of symmetric key encryption, hashing, and password
 
 **screenshot 3-** Successfully used john the ripper to crack NT hashes, recovering passwords "aberdeen" and "dundee" using a custom dictionary wordlist.
 
+<img width="1291" height="876" alt="image" src="https://github.com/user-attachments/assets/51aab7b6-c479-4821-b56f-b1d3ccedf27b" />
