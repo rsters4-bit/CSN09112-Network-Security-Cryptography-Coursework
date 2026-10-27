@@ -17,5 +17,6 @@ This repository documents my coursework and lab progress for CSN09112 Network Se
 * [Lab 2: Network Security](Lab_2_Network_Security.md)
 * [Lab 3: AWS Architecture](Lab_3_AWS_Architecture.md)
 * [Lab 4: Symmetric Key & Hashing](Lab_4_Symmetric_key_&_Hashing.md)
+* [Lab 5: Public key and Key exchange(Lab_5_Public_key_and_Key_exchange.md)
 
 
