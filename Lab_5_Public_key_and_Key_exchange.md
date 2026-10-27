@@ -18,3 +18,7 @@
 <img width="2409" height="390" alt="image" src="https://github.com/user-attachments/assets/f0ada33d-1a78-4b52-8685-68ff610816d4" />
 
 **Screenshot 4-** Successfully encrypt a local text file using RSA. The generated Base64 ciphertext is then decoded into a binary format and decrypted back using AWS KMS.
+
+<img width="2374" height="178" alt="image" src="https://github.com/user-attachments/assets/0930e6b4-5a2d-4893-9da8-5e0f9af55541" />
+
+**Screenshot 5-** Using a Python script in AWS terminal to intialize an AWS KMS client using a specific key ID. The program successfully encrypts a plaintext message into a Base64 encoded ciphertext string and then decrypts it back into a readable format.
