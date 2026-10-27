@@ -30,3 +30,8 @@
 <img width="1615" height="497" alt="image" src="https://github.com/user-attachments/assets/c4ba1659-9f3d-4da0-bdd7-2689e8a4d259" />
 
 **Screenshot 7-** Retrieve a public key from AWS KMS using AWS CLI and OpenSSL and converting it from DER to PEM format and display the key contents. The process also includes verifying a digital signature "1.sig" against the orginal text file "1.txt" which results a "Verified OK" confirmation.
+
+<img width="1312" height="756" alt="image" src="https://github.com/user-attachments/assets/ad223c0e-42ef-41a5-99af-b2e1ac43d1ca" />
+
+**Screenshot 8-** Created a python script using "pycryptodome" and modified it using CLI arguments to perform AES symmetric encryption. The output script successfully demonstrate padding, encrypting, and decrypting vatrious message and key combinations to generate specific ciphertext.
+
