@@ -8,7 +8,7 @@ This lab demonstrates the use of symmetric key encryption, hashing, and password
 * implemented "gocryptfs" to create secure vaults that output files contents into unreadable cyphertext when unmounted from the file system.
 ## Key difficulties
 One challenge that was encountered was the expired token in AWS CLI which took a little while troubleshooting. This was resolved by realizing on the previous lab that the token had to be copied from the "details" section next to the CLI dashboard and pasted into credentials file to be updated.
-## supporting screenshots
+## Supporting screenshots
 <img width="1365" height="505" alt="image" src="https://github.com/user-attachments/assets/00bb4f4c-f5b2-4742-ae59-adda94f78625" />
 
 **Screenshot 1-** This screenshot shows a decryption of AES-256 ciphertext in OpenSSL by testing multiple keys until the correct password "paris" reveals the hidden message "hello"
