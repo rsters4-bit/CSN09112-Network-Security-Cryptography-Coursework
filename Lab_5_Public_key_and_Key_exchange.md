@@ -14,3 +14,7 @@
 <img width="687" height="490" alt="image" src="https://github.com/user-attachments/assets/813b0299-67a6-440e-80a1-8e03d624be73" />
 
 **Screenshot 3-** Generated a Certificate Signing Request "CSR" using OpenSSL followed by using a private key to create a self signed digital certificate "server.crt"
+
+<img width="2409" height="390" alt="image" src="https://github.com/user-attachments/assets/f0ada33d-1a78-4b52-8685-68ff610816d4" />
+
+**Screenshot 4-** Successfully encrypt a local text file using RSA. The generated Base64 ciphertext is then decoded into a binary format and decrypted back using AWS KMS.
