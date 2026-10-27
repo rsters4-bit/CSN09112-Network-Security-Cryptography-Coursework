@@ -26,3 +26,7 @@
 <img width="2423" height="299" alt="image" src="https://github.com/user-attachments/assets/5389852f-d249-4e7f-9978-155aef405ecd" />
 
 **Screenshot 6-** By using AWS CLI digital signature for a local text file was successfully generated using "SIGN_VERIFY" KMS key. The Base64 output was decoded into binary signature file and authenticated via "aws kms verify" command confirming that the signature is valid.
+
+<img width="1615" height="497" alt="image" src="https://github.com/user-attachments/assets/c4ba1659-9f3d-4da0-bdd7-2689e8a4d259" />
+
+**Screenshot 7-** Retrieve a public key from AWS KMS using AWS CLI and OpenSSL and converting it from DER to PEM format and display the key contents. The process also includes verifying a digital signature "1.sig" against the orginal text file "1.txt" which results a "Verified OK" confirmation.
