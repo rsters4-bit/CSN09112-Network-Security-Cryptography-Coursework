@@ -22,3 +22,7 @@
 <img width="2374" height="178" alt="image" src="https://github.com/user-attachments/assets/0930e6b4-5a2d-4893-9da8-5e0f9af55541" />
 
 **Screenshot 5-** Using a Python script in AWS terminal to intialize an AWS KMS client using a specific key ID. The program successfully encrypts a plaintext message into a Base64 encoded ciphertext string and then decrypts it back into a readable format.
+
+<img width="2423" height="299" alt="image" src="https://github.com/user-attachments/assets/5389852f-d249-4e7f-9978-155aef405ecd" />
+
+**Screenshot 6-** By using AWS CLI digital signature for a local text file was successfully generated using "SIGN_VERIFY" KMS key. The Base64 output was decoded into binary signature file and authenticated via "aws kms verify" command confirming that the signature is valid.
