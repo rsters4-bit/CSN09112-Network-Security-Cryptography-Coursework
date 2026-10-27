@@ -2,4 +2,4 @@
 ## Overview
 ## Key elements of learning
 ## Key difficulties
-## supporting screenshots
+## Supporting screenshots
