@@ -1,7 +1,16 @@
 ## Lab 5 **Public key and Key exchange** 
 ## Overview
+This lab demonstrates practical implementation of public key and key exchange using AWS KMS tools with Python scripting. the lab started with manual RSA encryption and decryption using AWS CLI before automating using "boto3" library. Then the lab progressed into verifying data integrity with digital signatures and ended with building a custom python script to handle symmetric AES encryption.
+
 ## Key elements of learning
+* Utilizing and managing AWS KMS customer managed keys, including setting up aliases and understanding how strict usage policies work in practice.
+* Converting Base64 ciphertext into readable binary and standard public key formats "DER/PEM" using terminal tools and OpenSSL.
+* Writing Python automation with "boto3" library to interact with cloud cryptography services rather than relying on manual CLI commands.
+* Implementing symmetric encryption using "cryptography.hazmat" library, handling PKCS7 data padding, and making scripts dynamic by parsing CLI arguments.
+  
 ## Key difficulties
+* Running into an "InvalidKeyUsageException" when trying to sign a document with an encryption key, providing that AWS KMS key usage is permanently locked at creation and requires a dedicated "SIGN_VERIFY" key for signatures.
+
 ## Supporting screenshots
 <img width="652" height="556" alt="image" src="https://github.com/user-attachments/assets/38f718d8-8487-457a-875a-df5290090b25" />
 
